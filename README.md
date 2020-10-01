@@ -13,6 +13,9 @@ You can also [download a built
 version](https://github.com/6849-2020/fold-and-cut-2010/releases)
 to try it out yourself.
 
+See also the accompanying project paper,
+&ldquo;[An Interactive Fold-and-Cut Editor](http://courses.csail.mit.edu/6.849/fall10/project/fold-and-cut.pdf)&rdquo;.
+
 ## campskeleton
 
 This implementation uses (an old version of)
